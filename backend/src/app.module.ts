@@ -10,7 +10,7 @@ import { AuthModule } from './modules/auth/auth.module';
       host: 'localhost',
       port: 5432,
       username: 'mokshejain',
-      password: 'yourpassword',
+      password: '',
       database: 'petdb',
       autoLoadEntities: true,
       synchronize: true,
